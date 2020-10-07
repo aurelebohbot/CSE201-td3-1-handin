@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
   // START OF THE CUSTOM CODE SECTION
   // This code will be executed only if you set GRADING to a value different from 1
   {
-        std::cout << "First git commit" << std::endl;
+        std::cout << "A better message" << std::endl;
   }
   // END OF THE CUSTOM CODE SECTION
 #else
@@ -51,3 +51,6 @@ int main(int argc, char* argv[])
   }
 #endif
 }
+
+
+// 4. I am looking at the old file.
